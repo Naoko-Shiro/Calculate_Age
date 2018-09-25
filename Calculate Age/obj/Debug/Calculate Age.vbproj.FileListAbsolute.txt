@@ -1,0 +1,24 @@
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.exe.config
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.exe
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.pdb
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.xml
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate_Age.Form1.resources
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate_Age.Resources.resources
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.vbproj.GenerateResource.Cache
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.exe
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.xml
+C:\Users\gentryc\Desktop\Programming\Programming\Ch4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 3\Calculate Age\Calculate Age\bin\Debug\Calculate Age.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 3\Calculate Age\Calculate Age\obj\Debug\Calculate Age.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\Calculate Age\Calculate Age\obj\Debug\Calculate Age.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\Calculate Age\Calculate Age\obj\Debug\Calculate Age.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.exe
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.xml
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.exe
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\bin\Debug\Calculate Age.xml
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate_Age.Form1.resources
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate_Age.Resources.resources
+H:\11th grade stuff\Programming in Basic\Ch. 4\Calculate Age\Calculate Age\obj\Debug\Calculate Age.vbproj.GenerateResource.Cache
